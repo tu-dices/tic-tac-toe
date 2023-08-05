@@ -6,7 +6,10 @@
   },
   "main": "/index.js",
   "devDependencies": {
-    "react-scripts": "1.0.0"
+    "eslint": "^8.46.0",
+    "react-scripts": "1.0.0",
+    "ttypescript": "^1.5.15",
+    "typescript": "^5.1.6"
   },
   "name": "ljg0t8",
   "description": null,
